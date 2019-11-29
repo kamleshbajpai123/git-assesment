@@ -11,10 +11,6 @@ function printJumboTronLine()
     return `Speak of the devil, and Devil is here !`;
 
 }
-function printJumboTronLine()
-{
-    return `Speak of the devil, and Devil is here !`;
-}
 
 /**
  * A Heading  function
